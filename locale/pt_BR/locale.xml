@@ -130,12 +130,13 @@
 
 	<!-- Common Track Terms -->
 	<message key="track.track">Modalidade</message>
-	<message key="track.tracks">Modalidades da Conferência</message>
+	<message key="track.tracks">Áreas do Conhecimento</message>
 	<message key="track.title">Título da modalidade</message>
 	<message key="track.abbreviation">Abreviatura</message>
 	<message key="track.abbreviation.example">(Por exemplo, Papers=PAP)</message>
 	<!-- Common Paper Terms -->
 	<message key="paper.papers">Submissões</message>
+	<message key="paper.instructions">Preencher os campos do formulário de acordo com as normas da língua portuguesa. Proibido colocar o título em maiúsculo/caixa alta. Maiúsculas somente no início dos substantivos próprios e siglas.</message>
 	<message key="paper.submissionId">ID da submissão</message>
 	<message key="paper.title">Título</message>
 	<message key="paper.authors">Autores</message>
@@ -144,7 +145,7 @@
 	<message key="paper.suppFile">Documento Suplementar</message>
 	<message key="paper.suppFiles">Documento(s) Suplementar(es)</message>
 	<message key="paper.suppFilesAbbrev">Docs. Sups.</message>
-	<message key="paper.discipline">Área e subárea do conhecimento acadêmico</message>
+	<message key="paper.discipline">Informe o nome completo do orientador do trabalho</message>
 	<message key="paper.subjectClassification">Classificação do assunto</message>
 	<message key="paper.subject">Palavras-chave</message>
 	<message key="paper.coverage">Cobertura</message>
@@ -212,10 +213,10 @@
 	<message key="schedConf.noScheduledConferences">Nenhuma conferência agendada</message>
 	<message key="schedConf.schedConf">Conferência Agendada</message>
 	<message key="schedConf.contents">Informações sobre a Conferência</message>
-	<message key="schedConf.overview">Visão Geral</message>
-	<message key="schedConf.trackPolicies">Políticas das Modalidades</message>
+	<message key="schedConf.overview">Objetivos</message>
+	<message key="schedConf.trackPolicies">Políticas das Área de Conhecimento</message>
 	<message key="schedConf.program">Programa</message>
-	<message key="schedConf.cfp">Chamada para submissões</message>
+	<message key="schedConf.cfp">Submissão de trabalho</message>
 	<message key="schedConf.discussion">Discussões</message>
 	<message key="schedConf.registration">Inscrição</message>
 	<message key="schedConf.supporters">Organização e Parceiros</message>
@@ -228,11 +229,11 @@
 	<message key="schedConf.submission">Submissão</message>
 	<message key="schedConf.submissions">Submissões</message>
 
-	<message key="schedConf.cfp.title">Chamada para submissões</message>
-	<message key="schedConf.overview.title">Visão Geral</message>
+	<message key="schedConf.cfp.title">Submissão de trabalho</message>
+	<message key="schedConf.overview.title">Objetivos</message>
 	<message key="schedConf.presentations.title">Apresentações e Autores</message>
 	<message key="schedConf.program.title">Programa</message>
-	<message key="schedConf.trackPolicies.title">Políticas das Modalidades</message>
+	<message key="schedConf.trackPolicies.title">Políticas das Área de Conhecimento</message>
 
 	<!-- User self-registration form -->
 	<message key="schedConf.registration.alreadyRegistered"><![CDATA[Embora não tenha sido recebido o pagamento, sua inscrição já foi realizada. Entre em contato com o responsável no Sobre > Contato caso seja um erro, ou deseje alterar sua inscrição.]]></message>
@@ -274,7 +275,7 @@
 	 * LOG - This section contains entries related to log entries.
 	 *
 	-->
-	
+
 	<message key="event.logType.paper">Documento</message>
 	<message key="event.logType.author">Autor</message>
 	<message key="event.logType.director">Diretor</message>
@@ -283,16 +284,16 @@
 
 	<message key="event.eventLog">Log de eventos</message>
 	<message key="event.logLevel">Nível</message>
-	
+
 	<message key="event.logLevel.info">Informações</message>
 	<message key="event.logLevel.notice">Nota</message>
 	<message key="event.logLevel.warning">Aviso</message>
 	<message key="event.logLevel.error">Erro</message>
 
 	<message key="event.general.defaultEvent">Evento da submissão</message>
-	
+
 	<!-- Submission events -->
-	
+
 	<message key="submission.event.general.abstractSubmitted">Resumo enviado</message>
 	<message key="submission.event.general.presentationSubmitted">Apresentação enviada</message>
 	<message key="submission.event.general.paperPublished">Documento publicado</message>
@@ -334,7 +335,7 @@
 
 	<!-- Site Administration -->
 
-	<message key="admin.settings.oaiRegistrationDescription"><![CDATA[Para indexar todo o conteúdo das conferências hospedadas neste portal em um sistema global de bases de dados de pesquisa integradas,  <a href="http://pkp.sfu.ca/harvester/add.php" target="_blank">cadastre</a> a URL do portal no <a href="http://pkp.sfu.ca/harvester/" target="_blank">coletador de metadados</a>do Public Knowledge Project. Esta ferramenta coleta os metadados de cada item indexado na revista, permitindo pesquisa coletiva e precisa dentro dos portais que adotam o <a href="http://www.openarchives.org/OAI/openarchivesprotocol.htm#Introduction" target="_blank">Protocolo de Arquivos Abertos para Coleta de Metadados - OAI PMH</a>. 
+	<message key="admin.settings.oaiRegistrationDescription"><![CDATA[Para indexar todo o conteúdo das conferências hospedadas neste portal em um sistema global de bases de dados de pesquisa integradas,  <a href="http://pkp.sfu.ca/harvester/add.php" target="_blank">cadastre</a> a URL do portal no <a href="http://pkp.sfu.ca/harvester/" target="_blank">coletador de metadados</a>do Public Knowledge Project. Esta ferramenta coleta os metadados de cada item indexado na revista, permitindo pesquisa coletiva e precisa dentro dos portais que adotam o <a href="http://www.openarchives.org/OAI/openarchivesprotocol.htm#Introduction" target="_blank">Protocolo de Arquivos Abertos para Coleta de Metadados - OAI PMH</a>.
 <br /><br />
 <a href="http://pkp.sfu.ca/harvester/add.php" target="_blank">Clique aqui</a> e insira <span class="highlight">{$siteUrl}</span> no campo <strong>URL do Portal</strong>, e <span class="highlight">{$oaiUrl}</span> no campo <strong>URL Base para o Arquivo OAI</strong>.
 <br /><br />
@@ -424,7 +425,7 @@ Caso o administrador do portal já tenha cadastrado o portal do Coletador do PKP
 <br /><br />
 <a href="http://pkp.sfu.ca/harvester/add.php" target="_blank">Clique aqui</a> e digite <span class="highlight">{$siteUrl}</span> no campo <strong>Site URL</strong>, e <span class="highlight">{$oaiUrl}</span> no campo <strong>Base URL for OAI Archive</strong>.]]></message>
 
-	<!-- 
+	<!--
 	     ***
 	     *** Scheduled Conference Setup
 	     ***
@@ -447,10 +448,10 @@ Título do sistema de classificação]]></message>
 	<!-- Track Management -->
 	<!-- Timeline management -->
 
-	
 
 
-	
+
+
 
 	<!-- Import/Export -->
 
@@ -670,7 +671,7 @@ Ativo indica quantas avaliações estão em consideração ou em andamento.]]></
 	<message key="site.schedConfCurrent">Cronograma da conferência atual</message>
 
 	<!-- Conference page -->
-	<message key="conference.currentConferences">Conferências disponíveis</message>
+	<message key="conference.currentConferences">Eventos</message>
 	<message key="conference.noCurrentConferences">Não há conferências em andamento. Veja os arquivos para edições anteriores das conferências.</message>
 	<message key="conference.archive">Edições anteriores da Conferência</message>
 
@@ -684,11 +685,11 @@ Ativo indica quantas avaliações estão em consideração ou em andamento.]]></
 	<message key="presentations.notPermitted">Acesso às apresentações está indisponível no momento.</message>
 	<message key="presentations.trackEmpty">Nenhum documento disponível nesta modalidade.</message>
 	<message key="presentations.schedConfEmpty">Não há apresentações disponíveis ou nenhum documento encontrado com os termos escolhidos.</message>
-	
+
 	<!-- Program page -->
 	<message key="schedConf.program.programFileInstructions">Clique no link a seguir para visualizar o programa da conferência.</message>
 	<message key="schedConf.program.viewProgramFile">Visualizar o programa</message>
-	
+
 	<!-- About The Conference -->
 	<message key="about.statistics">Estatísticas</message>
 	<message key="about.conferenceContact">Contato da Conferência</message>
@@ -703,7 +704,7 @@ Ativo indica quantas avaliações estão em consideração ou em andamento.]]></
 	<message key="about.onlineSubmissions.needAccount">Não possui Login/Senha?</message>
 	<message key="about.onlineSubmissions.registration">Inscrições</message>
 	<message key="about.onlineSubmissions.registrationRequired">A inscrição, criando seu login e senha, é obrigatória para submissão de documentos online e acompanhar a situação de submissões.</message>
-	<message key="about.authorGuidelines">Diretrizes para Autores</message>
+	<message key="about.authorGuidelines">Normas para Elaboração de Trabalho</message>
 	<message key="about.submissionPreparationChecklist">Itens de Verificação para Submissão</message>
 	<message key="about.copyrightNotice">Declaração de Direito Autoral</message>
 	<message key="about.privacyStatement">Política de Privacidade</message>
@@ -717,7 +718,7 @@ Ativo indica quantas avaliações estão em consideração ou em andamento.]]></
 	<message key="about.registrationContact">Contato para Inscrições</message>
 	<message key="about.availableRegistrationTypes">Tipos de Inscrição</message>
 	<message key="about.aboutThisPublishingSystem">Sobre este Sistema de Conferências</message>
-	<message key="about.currentConferences">Conferências disponíveis</message>
+	<message key="about.currentConferences">Eventos</message>
 	<message key="about.aboutOCSConference"><![CDATA[A conferência utiliza o Sistema Online de Administração de Conferências (SOAC/OCS {$ocsVersion}), sistema de código aberto para administração de conferências desenvolvido, com suporte, e distribuído gratuitamente pelo <a href="http://pkp.sfu.ca/">Public Knowledge Project</a> sob a licença GNU General Public License.]]></message>
 	<message key="about.aboutOCSSite"><![CDATA[O portal utiliza o Sistema Online de Administração de Conferências (SOAC/OCS {$ocsVersion}), sistema de código aberto para administração de conferências, desenvolvido, com suporte, e distribuído gratuitamente pelo <a href="http://pkp.sfu.ca/">Public Knowledge Project</a> sob a licença GNU General Public License.]]></message>
 
@@ -731,7 +732,7 @@ Ativo indica quantas avaliações estão em consideração ou em andamento.]]></
 	<message key="installer.ocsInstallation">Instalação do Sistema</message>
 	<message key="installer.ocsUpgrade">Atualização do Sistema</message>
 	<message key="installer.installationInstructions"><![CDATA[<h4>Versão {$version}</h4>
-	
+
 	<p>Agradecemos seu interesse em utilizar o <strong>Sistema Online de Administração de Conferências</strong>, desenvolvido pelo Public Knowledge Project. Antes de continuar, leia o documento <a href="{$baseUrl}/docs/README_pt">README_pt</a> incluído com o pacote. Para maiores informações sobre o Public Knowledge Project e outros sistemas desenvolvidos, acesse o <a href="http://pkp.sfu.ca/" target="_blank">portal do PKP</a>. Para reportar erros, sugestões ou dúvidas sobre o Sistema Online de Administração de Conferências/Open Conference Systems visite <a href="pkp.sfu.ca/support/forum">PKP Support Forum</a>, ou <a href="http://pkp.sfu.ca/bugzilla/" target="_blank">Sistema de Controle de erros Bugzilla</a> do PKP. Embora os fóruns sejam a forma preferêncial de contato, também pode-se enviar e-mail para a <a href="mailto:pkp.contact@gmail.com">Equipe do PKP (pkp.contact@gmail.com)</a>.</p>
 
 <h4>Atualização</h4>
@@ -832,7 +833,7 @@ O servidor atualmente tem suporte a mbstring: <strong>{$supportsMBString}</stron
 	<message key="log.deadline.submissionDeadlinePassed">Prazo para submissões expirado.</message>
 	<message key="log.deadline.presentationsReleasedToParticipants">Apresentações liberadas aos participantes.</message>
 	<message key="log.deadline.presentationsReleasedToPublic">Apresentações liberadas ao público.</message>
-		
+
 	<message key="log.timeline.publicationStateChanged">O status da publicação {$oldPublicationState} foi alterada para {$newPublicationState}.</message>
 	<message key="log.timeline.submissionStateChanged">O status da submissão {$oldSubmissionState} foi alterado para {$newSubmissionState}.</message>
 	<message key="log.timeline.startDateChanged">Data de abertura da Conferência {$oldStartDate} alterada para {$newStartDate}.</message>
@@ -852,7 +853,7 @@ O servidor atualmente tem suporte a mbstring: <strong>{$supportsMBString}</stron
 	<message key="log.timeline.delayOpenAccessChanged">Configuração de acesso livre adiado {$oldDelayOpenAccess} alterado para {$newDelayOpenAccess}.</message>
 	<message key="log.timeline.closeCommentsDateChanged">A data de encerramento de comentários {$oldCloseCommentsDate} alterada para {$newCloseCommentsDate}.</message>
 	<message key="log.timeline.closeCommentsChanged">Configuração de encerramento de comentários {$oldCloseComments} alterado para {$newCloseComments}.</message>
-	
+
 	<!-- Reading Tools entries -->
 
 
