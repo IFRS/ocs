@@ -54,6 +54,10 @@ function moveAuthor(dir, authorIndex) {
 </div>
 {/if}
 
+<div>
+    <p>{translate key="paper.instructions"}</p>
+</div>
+
 <div id="authors">
 <h3>{translate key="paper.authors"}</h3>
 
@@ -94,8 +98,8 @@ function moveAuthor(dir, authorIndex) {
 	<tr valign="top">
 		<td class="label">{fieldLabel name="authors-$authorIndex-affiliation" key="user.affiliation"}</td>
 		<td class="value">
-			<textarea name="authors[{$authorIndex|escape}][affiliation]" class="textArea" id="authors-{$authorIndex|escape}-affiliation" rows="5" cols="40">{$author.affiliation|escape}</textarea><br/>
-			<span class="instruct">{translate key="user.affiliation.description"}</span>
+			<textarea name="authors[{$authorIndex|escape}][affiliation]" class="textArea" id="authors-{$authorIndex|escape}-affiliation" rows="5" cols="40">{$author.affiliation|escape}</textarea>
+			<span class="instruct">{translate key="user.affiliation.description"}</span><br/>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -178,6 +182,8 @@ function moveAuthor(dir, authorIndex) {
 
 <div id="titleAndAbstract">
 <h3>{translate key="submission.titleAndAbstract"}</h3>
+
+<p>{translate key="submission.titleAndAbstractInstructions"}</p>
 
 <table width="100%" class="data">
 	<tr>
