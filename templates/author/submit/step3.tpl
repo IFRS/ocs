@@ -57,8 +57,12 @@ function moveAuthor(dir, authorIndex) {
 </div>
 {/if}
 
+<p>{translate key="paper.papersInstructions"}</p>
+
 <div id="authors">
 <h3>{translate key="paper.authors"}</h3>
+
+<p>{translate key="paper.authorsInstructions"}</p>
 
 <input type="hidden" name="deletedAuthors" value="{$deletedAuthors|escape}" />
 <input type="hidden" name="moveAuthor" value="0" />
