@@ -136,10 +136,11 @@
 	<message key="track.abbreviation.example">(Por exemplo, Papers=PAP)</message>
 	<!-- Common Paper Terms -->
 	<message key="paper.papers">Submissões</message>
-	<message key="paper.instructions">Preencher os campos do formulário de acordo com as normas da língua portuguesa. Proibido colocar o título em maiúsculo/caixa alta. Maiúsculas somente no início dos substantivos próprios e siglas.</message>
+	<message key="paper.papersInstructions">Preencher os campos do formulário de acordo com as normas da língua portuguesa. Proibido colocar o título em maiúsculo/caixa alta. Maiúsculas somente no início dos substantivos próprios e siglas.</message>
 	<message key="paper.submissionId">ID da submissão</message>
 	<message key="paper.title">Título</message>
 	<message key="paper.authors">Autores</message>
+	<message key="paper.authorsInstructions">Nome próprio com iniciais maiúsculas. Ex.: João da Silva</message>
 	<message key="paper.conferenceTrack">Modalidade</message>
 	<message key="paper.file">Documento</message>
 	<message key="paper.suppFile">Documento Suplementar</message>
@@ -186,13 +187,13 @@
 	<message key="submission.layout.description">Este passo opcional pode ser utilizado para converter as submissões para outros formatos antes ou depois de serem encaminhadas para Apresentações.</message>
 
 	<message key="submissions.track">Modalidade</message>
-	<message key="submissions.queuedAbstractReview">Resumo em avaliação</message>
+	<message key="submissions.queuedAbstractReview">Trabalho em avaliação</message>
 	<message key="submissions.queuedPaperReview">Documento em avaliação</message>
 	<message key="submissions.published">Publicado</message>
 	<message key="submissions.accepted">Aceito</message>
 	<message key="submissions.reviewStage">Estágio da avaliação</message>
 	<message key="submissions.reviewType">Tipo de avaliação</message>
-	<message key="submissions.pendingPresentation">Aguardando envio de arquivo</message>
+	<message key="submissions.pendingPresentation">Aguardando conclusão da submissão</message>
 	<message key="submissions.expired">Expirado</message>
 	<message key="submissions.directorDecision">Decisão do diretor</message>
 	<message key="submissions.directorRuling">Opinião do diretor</message>
@@ -562,11 +563,11 @@ Ativo indica quantas avaliações estão em consideração ou em andamento.]]></
 	<!-- Paper Submission Step 3 -->
 	<message key="author.submit.uploadInstructions"><![CDATA[<p>Para transferir um manuscrito para o sistema, execute os seguintes passos:</p>
 <ol>
-<li>Nesta página, clique em Procurar (Browse, se o idioma do navegador for inglês , ou Escolher Arquivo), abrindo uma janela de seleção Escolha Arquivo (Enviar Arquivo) para localizar o documento no disco rígido do seu computador.</li>
-<li>Localize o documento desejado e selecione-o.</li>
-<li>Clique em Abrir na janela, que colocará o nome do documento no campo respectivo do formulário de envio.</li>
-<li>Clique em Transferir, para enviar o documento do seu computador para o servidor de hospedagem do sistema. O sistema dará um novo nome ao documento seguindo os padrões pré-definidos.</li>
-<li>Uma vez transferido, clique em Salvar e Continuar no final da página.</li>
+<li>Nesta página, clique em PROCURAR, abrindo uma janela de seleção para localizar o documento no seu computador.</li>
+<li>Localize o arquivo desejado e selecione-o.</li>
+<li>Clique em ABRIR na janela, que colocará o nome do documento no campo respectivo do formulário de envio.</li>
+<li>Clique em TRANSFERIR, para enviar o arquivo do seu computador para o sistema. O sistema dará um novo nome ao documento seguindo os padrões pré-definidos.</li>
+<li>Uma vez transferido, clique em SALVAR E CONTINUAR no final da página.</li>
 </ol>]]></message>
 
 	<!-- Paper Submission Step 4 -->
