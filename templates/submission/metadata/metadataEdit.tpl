@@ -54,10 +54,6 @@ function moveAuthor(dir, authorIndex) {
 </div>
 {/if}
 
-<div>
-    <p>{translate key="paper.instructions"}</p>
-</div>
-
 <div id="authors">
 <h3>{translate key="paper.authors"}</h3>
 
