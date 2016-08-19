@@ -958,7 +958,7 @@ A validação pode falhar em URLs para pesquisa que requeiram dados via o métod
 	<message key="paper.fontSize.small.altText">Menor</message>
 	<message key="paper.fontSize.medium.altText">Média</message>
 	<message key="paper.fontSize.large.altText">Maior</message>
-	<message key="paper.sessionType">Tipo de sessão</message>
+	<message key="paper.sessionType">Área</message>
 	<message key="schedConf.registration.free">Sua inscrição foi registrada, sem necessidade de pagamento.</message>
 	<message key="schedConf.registration.failed">Sua inscrição falhou. Tente novamente.</message>
 	<message key="schedConf.registrationOptions.noneAvailable">Inscrições não disponíveis no momento.</message>
