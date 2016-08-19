@@ -39,8 +39,8 @@
 	<message key="author.submissions.noSubmissions">Nenhuma submissão.</message>
 	<message key="author.submit.howToSubmit"><![CDATA[Após seu cadastro, os autores devem seguir os 5 passos de submissão por meio da interface do sistema para submissão e transferência de manuscritos e informações relevantes (com opção de transferir, inclusive, documentos suplementares, como resultados de pesquisa e outros recursos). Em caso de dificuldades com o processo, entre em contato com <a href="mailto:{$supportEmail}">{$supportName}</a> via e-mail ou pelo telefone {$supportPhone} para suporte.]]></message>
 	<message key="author.submit.howToSubmitNoPhone"><![CDATA[Após seu cadastro, os autores devem seguir os 5 passos de submissão por meio da interface do sistema para submissão e transferência de manuscritos e informações relevantes (com opção de transferir, inclusive, documentos suplementares, como resultados de pesquisa e outros recursos). Em caso de dificuldades com o processo, entre em contato com <a href="mailto:{$supportEmail}">{$supportName}</a> via e-mail.]]></message>
-	<message key="author.submit.conferenceTrack">Área do Conhecimento</message>
-	<message key="author.submit.conferenceTrackDescription"><![CDATA[Selecione a área do conhecimento de seu trabalho (leia Seções e Políticas em <a href="{$aboutUrl}">Sobre</a> a revista).]]></message>
+	<message key="author.submit.conferenceTrack">Modalidade</message>
+	<message key="author.submit.conferenceTrackDescription"><![CDATA[Selecione a modalidade de seu trabalho (leia Seções e Políticas em <a href="{$aboutUrl}">Sobre</a> a revista).]]></message>
 	<message key="author.submit.selectTrack">Escolha uma modalidade...</message>
 	<message key="author.submit.submissionChecklist">Condições para Submissão</message>
 	<message key="author.submit.submissionChecklistDescription">Certifique-se que a submissão está em conformidade com as condições seguintes, marcando as caixas de seleção, para prosseguir ao Passo 2 do processo.</message>
@@ -49,7 +49,7 @@
 	<message key="author.submit.copyrightNoticeAgreeRequired">É obrigatório aceitar a Declaração de Direito Autoral para continuar!</message>
 	<message key="author.submit.commentsForDirector">Informe se o seu trabalho é sigiloso e visa a geração de propriedade intelectual</message>
 	<message key="author.submit.comments">Digite o texto (opcional)</message>
-	<message key="author.submit.form.trackRequired">Selecione a área do conhecimento de seu trabalho.</message>
+	<message key="author.submit.form.trackRequired">Selecione a modalidade de seu trabalho.</message>
 	<message key="author.submit.form.abstractRequired">Informe o resumo da submissão.</message>
 	<message key="author.submit.privacyStatement">Declaração de Privacidade</message>
 	<message key="author.submit.reorderInstructions">Utilize as setas para alterar a ordem em que os nomes dos autores aparecem na submissão.</message>
