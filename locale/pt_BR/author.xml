@@ -24,7 +24,7 @@
 	<message key="author.submit.step5">Passo 5. Confirming the Submission</message>
 	<message key="author.submit.step5SkipSupp">Passo 4. Confirmação da Submissão</message>
 	<message key="author.submit.start">1. Início</message>
-	<message key="author.submit.metadata">3. Inclusão de Dados do Trabalho</message>
+	<message key="author.submit.metadata">3. Inserir Dados do Trabalho</message>
 	<message key="author.submit.upload">2. Envio do Trabalho</message>
 	<message key="author.submit.supplementaryFiles">4. Envio de Documentos Suplementares</message>
 	<message key="author.submit.confirmation">5. Confirmação</message>
@@ -37,17 +37,17 @@
 	<message key="author.submissions.confirmDelete">Deseja realmente excluir esta submissão incompleta?</message>
 	<message key="author.submissions.viewStatus">Verificar Status</message>
 	<message key="author.submissions.noSubmissions">Nenhuma submissão.</message>
-	<message key="author.submit.howToSubmit"><![CDATA[Após seu cadastro, os autores devem seguir os 5 passos de submissão por meio da interface do sistema para submissão e transferência de manuscritos e informações relevantes (com opção de transferir, inclusive, documentos suplementares, como resultados de pesquisa e outros recursos). Em caso de dificuldades com o processo, entre em contato com <a href="mailto:{$supportEmail}">{$supportName}</a> via e-mail ou pelo telefone {$supportPhone} para suporte.]]></message>
-	<message key="author.submit.howToSubmitNoPhone"><![CDATA[Após seu cadastro, os autores devem seguir os 5 passos de submissão por meio da interface do sistema para submissão e transferência de manuscritos e informações relevantes (com opção de transferir, inclusive, documentos suplementares, como resultados de pesquisa e outros recursos). Em caso de dificuldades com o processo, entre em contato com <a href="mailto:{$supportEmail}">{$supportName}</a> via e-mail.]]></message>
+	<message key="author.submit.howToSubmit"><![CDATA[Após seu cadastro, os autores devem seguir os 5 passos de submissão por meio da interface do sistema:<br/>1. INÍCIO<br/><ul><li>Selecione o seu nível de ensino e a área do trabalho</li><li>Assinale as caixas confirmando que atendeu as CONDIÇÕES PARA SUBMISSÃO</li><li>Confirme que está de acordo com a Declaração de Direito Autoral</li><li>Opcionalmente, informe se o seu trabalho é sigiloso e visa a geração de propriedade intelectual</li></ul><br/>2. ENVIO DO TRABALHO<br/>3. INSERIR DADOS DO TRABALHO<br/>4. ENVIO DE DOCUMENTOS SUPLEMENTARES<br/>&nbsp;&nbsp;&nbsp;&nbsp;Envie documento suplementar de acordo com as NORMAS PARA ELABORAÇÃO DE TRABALHO.<br/>5. CONFIRMAÇÃO<br/><br/>Em caso de dificuldades com o processo, entre em contato com <a href="mailto:{$supportEmail}">{$supportName}</a> via e-mail ou pelo telefone {$supportPhone} para suporte.]]></message>
+	<message key="author.submit.howToSubmitNoPhone"><![CDATA[Após seu cadastro, os autores devem seguir os 5 passos de submissão por meio da interface do sistema:<br/>1. INÍCIO<br/><ul><li>Selecione o seu nível de ensino e a área do trabalho</li><li>Assinale as caixas confirmando que atendeu as CONDIÇÕES PARA SUBMISSÃO</li><li>Confirme que está de acordo com a Declaração de Direito Autoral</li><li>Opcionalmente, informe se o seu trabalho é sigiloso e visa a geração de propriedade intelectual</li></ul><br/>2. ENVIO DO TRABALHO<br/>3. INSERIR DADOS DO TRABALHO<br/>4. ENVIO DE DOCUMENTOS SUPLEMENTARES<br/>&nbsp;&nbsp;&nbsp;&nbsp;Envie documento suplementar de acordo com as NORMAS PARA ELABORAÇÃO DE TRABALHO.<br/>5. CONFIRMAÇÃO<br/><br/>Em caso de dificuldades com o processo, entre em contato com <a href="mailto:{$supportEmail}">{$supportName}</a> via e-mail.]]></message>
 	<message key="author.submit.conferenceTrack">Modalidade</message>
-	<message key="author.submit.conferenceTrackDescription"><![CDATA[Selecione a modalidade de seu trabalho (leia Seções e Políticas em <a href="{$aboutUrl}">Sobre</a> a revista).]]></message>
+	<message key="author.submit.conferenceTrackDescription"><![CDATA[Escolha a modalidade apropriada para a submissão (leia Seções e Políticas em <a href="{$aboutUrl}">Sobre</a> a revista).]]></message>
 	<message key="author.submit.selectTrack">Escolha uma modalidade...</message>
 	<message key="author.submit.submissionChecklist">Condições para Submissão</message>
 	<message key="author.submit.submissionChecklistDescription">Certifique-se que a submissão está em conformidade com as condições seguintes, marcando as caixas de seleção, para prosseguir ao Passo 2 do processo.</message>
 	<message key="author.submit.verifyChecklist">Todas as condições devem ser satisfeitas antes de continuar.</message>
 	<message key="author.submit.copyrightNoticeAgree">Os autores concordam com os termos da Declaração de Direito Autoral, que se aplicará a esta submissão caso seja publicada por esta conferência (comentários ao editor podem ser incluídos a seguir).</message>
 	<message key="author.submit.copyrightNoticeAgreeRequired">É obrigatório aceitar a Declaração de Direito Autoral para continuar!</message>
-	<message key="author.submit.commentsForDirector">Informe se o seu trabalho é sigiloso e visa a geração de propriedade intelectual</message>
+	<message key="author.submit.commentsForDirector">Informe se o seu trabalho é sigiloso e tem potencial para a geração de propriedade intelectual e necessita de apresentação sigilosa</message>
 	<message key="author.submit.comments">Digite o texto (opcional)</message>
 	<message key="author.submit.form.trackRequired">Selecione a modalidade de seu trabalho.</message>
 	<message key="author.submit.form.abstractRequired">Informe o resumo da submissão.</message>
@@ -56,7 +56,7 @@
 	<message key="author.submit.selectPrincipalContact">Contato para correspondência.</message>
 	<message key="author.submit.addAuthor">Incluir Autor</message>
 	<message key="author.submit.deleteAuthor">Excluir Autor</message>
-	<message key="author.submit.submissionIndexingDescription">Preencha com os termos que descrevam da melhor maneira seu trabalho, separados por ponto e vírgula: (termo1; termo2; termo3).</message>
+	<message key="author.submit.submissionIndexingDescription">Preencha com as palavras-chave que descrevam da melhor maneira seu trabalho, separados por ponto e vírgula: (Palavra-chave1; Palavra-chave2; Palavra-chave3).</message>
 	<message key="author.submit.submissionSupportingAgencies">Agências de Fomento</message>
 	<message key="author.submit.submissionSupportingAgenciesDescription">Indique as agências que fomentaram ou patrocinaram o trabalho. Ex.: CAPES,  CNPq, FAPERGS, FINEP, IFRS, Empresa privada, etc.</message>
 	<message key="author.submit.subjectClassInstructions">Use o sistema de classificação definido para escolher termos específicos da área do conhecimento, e numeração se apropriado.</message>
@@ -69,7 +69,7 @@
 	<message key="author.submit.replaceSubmissionFile">Subsituir arquivo do trabalho</message>
 	<message key="author.submit.noSubmissionFile">Nenhum documento transferido.</message>
 	<message key="author.submit.noSubmissionConfirm">Deseja realmente continuar sem enviar um documento de submissão ao sistema?</message>
-	<message key="author.submit.supplementaryFilesInstructions">Este é um passo opcional no processo de submissão. Documentos Suplementares funcionam como um apêndice ao manuscrito, com o objetivo de auxiliar na compreensão e avaliação da submissão. Documentos Suplementares podem incluir (a) instrumentos de pesquisa, (b) conjuntos de dados e tabelas, que seguem os padrões de ética de avaliação, (c) fontes de informação normalmente não disponíveis para leitores, ou (d) figuras ou tabelas que não podem ser integradas ao texto em si. Estes documentos também devem ser indexados pelo autor, identificando a relação dos mesmos com a submissão, bem como a propriedade. Qualquer tipo ou formato de documento pode ser transferido como Documentos Suplementares e serão disponibilizados aos leitores em seu formato original de envio. Estes documentos podem ser disponibilizados aos Avaliadores, caso não comprometam o processo editorial.</message>
+	<message key="author.submit.supplementaryFilesInstructions"></message>
 	<message key="author.submit.supplementaryFiles.saveToUpload">Clique em Salvar para enviar o arquivo (o que permitirá o envio de outros arquivos).</message>
 	<message key="author.submit.forgottenSubmitSuppFile">Deseja realmente continuar sem enviar o documento suplementar escolhido?</message>
 	<message key="author.submit.noSupplementaryFiles">Nenhum documento suplementar anexado à submissão.</message>
