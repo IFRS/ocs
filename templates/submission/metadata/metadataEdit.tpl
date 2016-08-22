@@ -179,8 +179,6 @@ function moveAuthor(dir, authorIndex) {
 <div id="titleAndAbstract">
 <h3>{translate key="submission.titleAndAbstract"}</h3>
 
-<p>{translate key="submission.titleAndAbstractInstructions"}</p>
-
 <table width="100%" class="data">
 	<tr>
 		<td width="20%" class="label">{fieldLabel name="title" required="true" key="paper.title"}</td>

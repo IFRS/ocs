@@ -191,6 +191,8 @@ function moveAuthor(dir, authorIndex) {
 	<h3>{translate key="paper.title"}</h3>
 {/if}
 
+<p>{translate key="submission.titleAndAbstractInstructions"}</p>
+
 <table width="100%" class="data">
 
 <tr valign="top">
