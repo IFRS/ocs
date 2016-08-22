@@ -519,8 +519,8 @@
 	<message key="manager.timeline.reviews">Avaliações</message>
 	<message key="manager.timeline.schedConfAppearsOn">Lançar/Tornar Pública (como conferência atual)</message>
 	<message key="manager.timeline.schedConfArchivedOn">Arquivar</message>
-	<message key="manager.timeline.schedConfEndsOn">Último dia da Conferência</message>
-	<message key="manager.timeline.schedConfStartsOn">Primeiro dia da Conferência</message>
+	<message key="manager.timeline.schedConfEndsOn">Último dia do Evento</message>
+	<message key="manager.timeline.schedConfStartsOn">Primeiro dia do Evento</message>
 	<message key="manager.timeline.showCFP">Chamada para submissões publicada</message>
 	<message key="manager.timeline.submissions">Submissões</message>
 	<message key="manager.timeline.submissionsClosed">Submissões encerradas</message>
