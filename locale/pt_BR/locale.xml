@@ -140,7 +140,7 @@
 	<message key="paper.submissionId">ID da submissão</message>
 	<message key="paper.title">Título</message>
 	<message key="paper.authors">Autores</message>
-	<message key="paper.authorsInstructions">Nome próprio com iniciais maiúsculas. Ex.: João da Silva</message>
+	<message key="paper.authorsInstructions">Nome próprio com iniciais maiúsculas, sem abreviações. Ex.: João da Silva</message>
 	<message key="paper.conferenceTrack">Modalidade</message>
 	<message key="paper.file">Documento</message>
 	<message key="paper.suppFile">Documento Suplementar</message>
@@ -215,17 +215,17 @@
 	<message key="schedConf.schedConf">Conferência Agendada</message>
 	<message key="schedConf.contents">Informações sobre a Conferência</message>
 	<message key="schedConf.overview">Objetivos</message>
-	<message key="schedConf.trackPolicies">Políticas das Área de Conhecimento</message>
+	<message key="schedConf.trackPolicies">Políticas das Áreas de Conhecimento</message>
 	<message key="schedConf.program">Programa</message>
 	<message key="schedConf.cfp">Submissão de trabalho</message>
 	<message key="schedConf.discussion">Discussões</message>
 	<message key="schedConf.registration">Inscrição</message>
 	<message key="schedConf.supporters">Organização e Parceiros</message>
 	<message key="schedConf.timeline">Cronograma</message>
-	<message key="schedConf.schedule">Agenda da Conferência</message>
+	<message key="schedConf.schedule">Programação</message>
 	<message key="schedConf.links">Links relacionados</message>
 	<message key="schedConf.presentations">Apresentações e Autores</message>
-	<message key="schedConf.presentations.short">Apresentações</message>
+	<message key="schedConf.presentations.short">Anais</message>
 	<message key="schedConf.abstract">Resumo</message>
 	<message key="schedConf.submission">Submissão</message>
 	<message key="schedConf.submissions">Submissões</message>
@@ -234,7 +234,7 @@
 	<message key="schedConf.overview.title">Objetivos</message>
 	<message key="schedConf.presentations.title">Apresentações e Autores</message>
 	<message key="schedConf.program.title">Programa</message>
-	<message key="schedConf.trackPolicies.title">Políticas das Área de Conhecimento</message>
+	<message key="schedConf.trackPolicies.title">Políticas das Áreas de Conhecimento</message>
 
 	<!-- User self-registration form -->
 	<message key="schedConf.registration.alreadyRegistered"><![CDATA[Embora não tenha sido recebido o pagamento, sua inscrição já foi realizada. Entre em contato com o responsável no Sobre > Contato caso seja um erro, ou deseje alterar sua inscrição.]]></message>
@@ -958,7 +958,7 @@ A validação pode falhar em URLs para pesquisa que requeiram dados via o métod
 	<message key="paper.fontSize.small.altText">Menor</message>
 	<message key="paper.fontSize.medium.altText">Média</message>
 	<message key="paper.fontSize.large.altText">Maior</message>
-	<message key="paper.sessionType">Área</message>
+	<message key="paper.sessionType">Tipo de Sessão</message>
 	<message key="schedConf.registration.free">Sua inscrição foi registrada, sem necessidade de pagamento.</message>
 	<message key="schedConf.registration.failed">Sua inscrição falhou. Tente novamente.</message>
 	<message key="schedConf.registrationOptions.noneAvailable">Inscrições não disponíveis no momento.</message>
