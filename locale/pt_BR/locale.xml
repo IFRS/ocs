@@ -130,7 +130,7 @@
 
 	<!-- Common Track Terms -->
 	<message key="track.track">Modalidade</message>
-	<message key="track.tracks">Áreas do Conhecimento</message>
+	<message key="track.tracks">Modalidades</message>
 	<message key="track.title">Título da modalidade</message>
 	<message key="track.abbreviation">Abreviatura</message>
 	<message key="track.abbreviation.example">(Por exemplo, Papers=PAP)</message>
@@ -216,7 +216,7 @@
 	<message key="schedConf.schedConf">Conferência Agendada</message>
 	<message key="schedConf.contents">Informações sobre a Conferência</message>
 	<message key="schedConf.overview">Objetivos</message>
-	<message key="schedConf.trackPolicies">Políticas das Áreas de Conhecimento</message>
+	<message key="schedConf.trackPolicies">Políticas das Modalidades</message>
 	<message key="schedConf.program">Programa</message>
 	<message key="schedConf.cfp">Submissão de trabalho</message>
 	<message key="schedConf.discussion">Discussões</message>
@@ -235,7 +235,7 @@
 	<message key="schedConf.overview.title">Objetivos</message>
 	<message key="schedConf.presentations.title">Apresentações e Autores</message>
 	<message key="schedConf.program.title">Programa</message>
-	<message key="schedConf.trackPolicies.title">Políticas das Áreas de Conhecimento</message>
+	<message key="schedConf.trackPolicies.title">Políticas das Modalidades</message>
 
 	<!-- User self-registration form -->
 	<message key="schedConf.registration.alreadyRegistered"><![CDATA[Embora não tenha sido recebido o pagamento, sua inscrição já foi realizada. Entre em contato com o responsável no Sobre > Contato caso seja um erro, ou deseje alterar sua inscrição.]]></message>
@@ -251,7 +251,7 @@
 	<message key="schedConf.registration.feeCode">Código para taxa de inscrição</message>
 	<message key="schedConf.registration.feeCode.description">Informe o código secreto de taxa de inscrição, caso tenha recebido, e certifique-se de ter escolhido o tipo correto de inscrição. Caso contrário, deixe o campo Código de taxa de inscrição em branco.</message>
 	<message key="schedConf.registration.specialRequests">Solicitações Especiais</message>
-	<message key="schedConf.registration.specialRequests.description">Descreva necessidades ou solicitações especiais, como dieta específica, acesso para cadeirante, etc.</message>
+	<message key="schedConf.registration.specialRequests.description">Descreva, se necessário, algum recurso de acessibilidade: intérprete de libras, programação em braile, programação ampliada, sala de fácil acesso ou outros.</message>
 	<message key="schedConf.registration.account">Cadastro</message>
 	<message key="schedConf.registration.loggedInAs"><![CDATA[Usuário atualmente logado. Verifique se as informações de cadastro estão corretas. Caso contrário, atualize seus dados clicando em <a href="{$profileUrl}">Meu Perfil</a> ou clique em <a href="{$logoutUrl}">sair do sistem</a> para acessar com outro cadastro.]]></message>
 	<message key="schedConf.registration.createAccount.description"><![CDATA[Usuário não conectado. Para se inscrever na conferência é necessário possuir um cadastro. Caso já possua um, <a href="{$loginUrl}">clique aqui</a> para entrar no sistema; caso contrário, preencha as informações do formulário para criar um novo cadastro.]]></message>
@@ -959,7 +959,7 @@ A validação pode falhar em URLs para pesquisa que requeiram dados via o métod
 	<message key="paper.fontSize.small.altText">Menor</message>
 	<message key="paper.fontSize.medium.altText">Média</message>
 	<message key="paper.fontSize.large.altText">Maior</message>
-	<message key="paper.sessionType">Tipo de Sessão</message>
+	<message key="paper.sessionType">Área</message>
 	<message key="schedConf.registration.free">Sua inscrição foi registrada, sem necessidade de pagamento.</message>
 	<message key="schedConf.registration.failed">Sua inscrição falhou. Tente novamente.</message>
 	<message key="schedConf.registrationOptions.noneAvailable">Inscrições não disponíveis no momento.</message>
