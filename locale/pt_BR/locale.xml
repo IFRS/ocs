@@ -147,7 +147,8 @@
 	<message key="paper.suppFiles">Documento(s) Suplementar(es)</message>
 	<message key="paper.suppFilesAbbrev">Docs. Sups.</message>
 	<message key="paper.discipline">Informe o nome completo do orientador do trabalho</message>
-	<message key="paper.subjectClassification">Classificação do assunto</message>
+	<message key="paper.subjectClassification">Informe o título do programa/projeto ao qual esse trabalho está vinculado
+</message>
 	<message key="paper.subject">Palavras-chave</message>
 	<message key="paper.coverage">Cobertura</message>
 	<message key="paper.coverageGeo">Cobertura geo-espacial</message>
@@ -709,7 +710,7 @@ Ativo indica quantas avaliações estão em consideração ou em andamento.]]></
 	<message key="about.submissionPreparationChecklist">Itens de Verificação para Submissão</message>
 	<message key="about.copyrightNotice">Declaração de Direito Autoral</message>
 	<message key="about.privacyStatement">Política de Privacidade</message>
-	<message key="about.peerReviewProcess">Processo de Avaliação pelos Pares</message>
+	<message key="about.peerReviewProcess">Critérios de Avaliação e Classificação</message>
 	<message key="about.openAccessPolicy">Política de Acesso Livre</message>
 	<message key="about.archiveAccessPolicy">Política de Acesso às Edições Anteriores</message>
 	<message key="about.delayedOpenAccess">Acesso Livre Adiado</message>
