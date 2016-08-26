@@ -6,7 +6,7 @@ grunt.initConfig({
     rsync: {
         options: {
             args: ['-rLtvzh', '--stats'],
-            exclude: ['.git/', '.openshift/', 'cache/', '.gitignore', '.gitmodules', 'Gruntfile.js'],
+            exclude: ['.git/', '.openshift/', 'cache/', 'node_modules/', '.gitignore', '.gitmodules', 'Gruntfile.js', 'package.json'],
         },
         prod: {
             options: {
