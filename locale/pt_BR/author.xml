@@ -18,7 +18,10 @@
 	<message key="author.submit.startHereLink">Clique aqui para iniciar o processo de submissão</message>
 	<message key="author.submit.step1">Passo 1. Iniciar Submissão</message>
 	<message key="author.submit.step3">Passo 3. Metadados da Submissão (Indexação)</message>
+	<message key="author.submit.step3AbstOnly">Passo 2. Metadados da Submissão (Indexação)</message>
+	<message key="author.submit.step4AbstOnly">Passo 3. Envio de Documentos Suplementares</message>
 	<message key="author.submit.step2">Passo 2. Envio do Trabalho</message>
+	<message key="author.submit.step2NoAbstracts">Passo 3. Envio do Trabalho</message>
 	<message key="author.submit.step4">Passo 4. Envio de Documentos Suplementares</message>
 	<message key="author.submit.step4a">Passo 4a. Incluir Documento Suplementar</message>
 	<message key="author.submit.step5">Passo 5. Confirming the Submission</message>
@@ -37,8 +40,8 @@
 	<message key="author.submissions.confirmDelete">Deseja realmente excluir esta submissão incompleta?</message>
 	<message key="author.submissions.viewStatus">Verificar Status</message>
 	<message key="author.submissions.noSubmissions">Nenhuma submissão.</message>
-	<message key="author.submit.howToSubmit"><![CDATA[Após seu cadastro, os autores devem seguir os 5 passos de submissão por meio da interface do sistema:<br/>1. INÍCIO<br/><ul><li>Selecione o seu nível de ensino e a área do trabalho</li><li>Assinale as caixas confirmando que atendeu as CONDIÇÕES PARA SUBMISSÃO</li><li>Confirme que está de acordo com a Declaração de Direito Autoral</li><li>Opcionalmente, informe se o seu trabalho é sigiloso e visa a geração de propriedade intelectual</li></ul><br/>2. ENVIO DO TRABALHO<br/>3. INSERIR DADOS DO TRABALHO<br/>4. ENVIO DE DOCUMENTOS SUPLEMENTARES<br/>&nbsp;&nbsp;&nbsp;&nbsp;Envie documento suplementar de acordo com as NORMAS PARA ELABORAÇÃO DE TRABALHO.<br/>5. CONFIRMAÇÃO<br/><br/>Em caso de dificuldades com o processo, entre em contato com <a href="mailto:{$supportEmail}">{$supportName}</a> via e-mail ou pelo telefone {$supportPhone} para suporte.]]></message>
-	<message key="author.submit.howToSubmitNoPhone"><![CDATA[Após seu cadastro, os autores devem seguir os 5 passos de submissão por meio da interface do sistema:<br/>1. INÍCIO<br/><ul><li>Selecione o seu nível de ensino e a área do trabalho</li><li>Assinale as caixas confirmando que atendeu as CONDIÇÕES PARA SUBMISSÃO</li><li>Confirme que está de acordo com a Declaração de Direito Autoral</li><li>Opcionalmente, informe se o seu trabalho é sigiloso e visa a geração de propriedade intelectual</li></ul><br/>2. ENVIO DO TRABALHO<br/>3. INSERIR DADOS DO TRABALHO<br/>4. ENVIO DE DOCUMENTOS SUPLEMENTARES<br/>&nbsp;&nbsp;&nbsp;&nbsp;Envie documento suplementar de acordo com as NORMAS PARA ELABORAÇÃO DE TRABALHO.<br/>5. CONFIRMAÇÃO<br/><br/>Em caso de dificuldades com o processo, entre em contato com <a href="mailto:{$supportEmail}">{$supportName}</a> via e-mail.]]></message>
+	<message key="author.submit.howToSubmit"><![CDATA[Siga os passos para submissão e transferência do(s) arquivo(s) de acordo com as NORMAS PARA ELABORAÇÃO DE TRABALHO.<br/><ul><li>Selecione a modalidade e/ou área do trabalho</li><li>Assinale as caixas confirmando que atendeu as CONDIÇÕES PARA SUBMISSÃO</li><li>Confirme que está de acordo com a Declaração de Direito Autoral</li><li>Informe se o seu trabalho tem potencial para a geração de propriedade intelectual e necessita de apresentação sigilosa</li><li>Transcreva (copie e cole) os dados (autores, título, resumo e palavras-chave) do arquivo .doc ou .odt para o formulário de submissão abaixo sem nenhuma alteração do conteúdo.</li></ul><br/>Em caso de dificuldades com o processo, entre em contato com <a href="mailto:{$supportEmail}">{$supportName}</a> via e-mail ou pelo telefone {$supportPhone} para suporte.]]></message>
+	<message key="author.submit.howToSubmitNoPhone"><![CDATA[Siga os passos para submissão e transferência do(s) arquivo(s) de acordo com as NORMAS PARA ELABORAÇÃO DE TRABALHO.<br/><ul><li>Selecione a modalidade e/ou área do trabalho</li><li>Assinale as caixas confirmando que atendeu as CONDIÇÕES PARA SUBMISSÃO</li><li>Confirme que está de acordo com a Declaração de Direito Autoral</li><li>Informe se o seu trabalho tem potencial para a geração de propriedade intelectual e necessita de apresentação sigilosa</li><li>Transcreva (copie e cole) os dados (autores, título, resumo e palavras-chave) do arquivo .doc ou .odt para o formulário de submissão abaixo sem nenhuma alteração do conteúdo.</li></ul><br/>Em caso de dificuldades com o processo, entre em contato com <a href="mailto:{$supportEmail}">{$supportName}</a> via e-mail.]]></message>
 	<message key="author.submit.conferenceTrack">Modalidade</message>
 	<message key="author.submit.conferenceTrackDescription"><![CDATA[Escolha a modalidade apropriada para a submissão (leia Seções e Políticas em <a href="{$aboutUrl}">Sobre</a> a revista).]]></message>
 	<message key="author.submit.selectTrack">Escolha uma modalidade...</message>
@@ -47,7 +50,7 @@
 	<message key="author.submit.verifyChecklist">Todas as condições devem ser satisfeitas antes de continuar.</message>
 	<message key="author.submit.copyrightNoticeAgree">Os autores concordam com os termos da Declaração de Direito Autoral, que se aplicará a esta submissão caso seja publicada por esta conferência (comentários ao editor podem ser incluídos a seguir).</message>
 	<message key="author.submit.copyrightNoticeAgreeRequired">É obrigatório aceitar a Declaração de Direito Autoral para continuar!</message>
-	<message key="author.submit.commentsForDirector">Informe se o seu trabalho é sigiloso e tem potencial para a geração de propriedade intelectual e necessita de apresentação sigilosa</message>
+	<message key="author.submit.commentsForDirector">Informe se o seu trabalho tem potencial para a geração de propriedade intelectual e necessita de apresentação sigilosa</message>
 	<message key="author.submit.comments">Digite o texto (opcional)</message>
 	<message key="author.submit.form.trackRequired">Selecione a modalidade de seu trabalho.</message>
 	<message key="author.submit.form.abstractRequired">Informe o resumo da submissão.</message>
@@ -115,7 +118,7 @@
 	<message key="author.submit.step3AbstOnly">Passo 2. Informando os Metadados da submissão</message>
 	<message key="author.submit.metadataOnly">2. Informar metadados</message>
 	<message key="author.submit.uploadOnly">3. Enviar submissão</message>
-	<message key="author.submit.supplementaryFilesAbstractOnly">4. Enviar arquivos suplementares</message>
+	<message key="author.submit.supplementaryFilesAbstractOnly">3. Enviar arquivos suplementares</message>
 	<message key="author.submit.supplementaryFilesInfoAbstractOnly">Passo 4a. Enviando arquivos suplementares</message>
 	<message key="author.submissions.queuedAbstractReviewRevisions">Resumo em avaliação: correções obrigatórias</message>
 	<message key="author.submissions.queuedPaperReviewRevisions">Documento em avaliação: correções obrigatórias</message>
