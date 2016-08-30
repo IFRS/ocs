@@ -21,11 +21,6 @@
 {include file="common/formErrors.tpl"}
 
 {translate key="author.submit.uploadInstructions"}
-{if $currentSchedConf->getSetting('supportPhone')}
-	{assign var="howToKeyName" value="author.submit.howToSubmit"}
-{else}
-	{assign var="howToKeyName" value="author.submit.howToSubmitNoPhone"}
-{/if}
 
 <p>{translate key=$howToKeyName supportName=$currentSchedConf->getSetting('supportName') supportEmail=$currentSchedConf->getSetting('supportEmail') supportPhone=$currentSchedConf->getSetting('supportPhone')}</p>
 
