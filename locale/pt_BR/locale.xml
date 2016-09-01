@@ -619,7 +619,7 @@ Ativo indica quantas avaliações estão em consideração ou em andamento.]]></
 	<message key="user.account.noSchedConfs">Não há conferências agendadas nas quais se cadastrar neste portal.</message>
 	<message key="user.account.createAs">Cadastrar como</message>
 	<message key="user.account.privacyStatement">Política de Privacidade</message>
-	<message key="user.account.completeForm">Para se cadastrar no sistema, preencha o formulário de acordo com as normas da língua portuguesa. Proibido colocar o título em maiúsculo/caixa alta. Maiúsculas somente no início dos substantivos próprios e siglas.</message>
+	<message key="user.account.completeForm">Para se cadastrar no sistema, preencha o formulário de acordo com as normas da língua portuguesa. Maiúsculas somente no início dos substantivos próprios e siglas.</message>
 	<message key="user.account.hasAccount"><![CDATA[<a href="{$accountUrl}">Clique aqui</a> caso já seja cadastrado no sistema ou em outra conferência do portal.]]></message>
 	<message key="user.account.hasNoAccount"><![CDATA[<a href="{$accountUrl}">Clique aqui</a> caso <strong>não</strong> seja cadastrado em outra conferência do portal.]]></message>
 	<message key="user.account.loginToRegister">Digite o login e senha para cadastrar-se na conferência.</message>
