@@ -22,7 +22,7 @@
 
 {iterate from=conferences item=conference}
 
-<h3>{$conference->getConferenceTitle()|escape}</h3>
+<h3><a href="{url conference=$conference->getPath() schedConf=""}">{$conference->getConferenceTitle()|escape}</a></h3>
 
 {if $conference->getLocalizedSetting('description') != ''}
 <p>{$conference->getLocalizedSetting('description')|nl2br}</p>
