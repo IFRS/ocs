@@ -6,3 +6,4 @@ files
 .buildpath
 .htaccess
 /node_modules
+templates/common/analytics.tpl
