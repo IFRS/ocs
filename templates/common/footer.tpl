@@ -8,5 +8,6 @@
  *
  *}
 {strip}
+{include file="common/analytics.tpl"}
 {include file="core:common/footer.tpl"}
 {/strip}
