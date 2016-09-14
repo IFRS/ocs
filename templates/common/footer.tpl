@@ -7,7 +7,7 @@
  * Common site footer.
  *
  *}
-{strip}
 {include file="common/analytics.tpl"}
+{strip}
 {include file="core:common/footer.tpl"}
 {/strip}
