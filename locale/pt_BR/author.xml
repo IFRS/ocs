@@ -59,7 +59,7 @@
 	<message key="author.submit.selectPrincipalContact">Contato para correspondência.</message>
 	<message key="author.submit.addAuthor">Incluir Autor</message>
 	<message key="author.submit.deleteAuthor">Excluir Autor</message>
-	<message key="author.submit.submissionIndexingDescription">Preencha com as palavras-chave que descrevam da melhor maneira seu trabalho, separados por ponto e vírgula: (Palavra-chave1; Palavra-chave2; Palavra-chave3).</message>
+	<message key="author.submit.submissionIndexingDescription">Digite termos que descrevam da melhor maneira o conteúdo do seu trabalho, segundo as categorias utilizadas e os exemplos oferecidos.</message>
 	<message key="author.submit.submissionSupportingAgencies">Agências de Fomento</message>
 	<message key="author.submit.submissionSupportingAgenciesDescription">Indique as agências que fomentaram ou patrocinaram o trabalho. Ex.: CAPES,  CNPq, FAPERGS, FINEP, IFRS, Empresa privada, etc.</message>
 	<message key="author.submit.subjectClassInstructions">Use o sistema de classificação definido para escolher termos específicos da área do conhecimento, e numeração se apropriado.</message>
