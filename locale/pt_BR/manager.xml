@@ -22,7 +22,7 @@
 	<message key="manager.announcements.form.schedConfId">Conferência Agendada</message>
 	<message key="manager.announcements.schedConf">Conferência Agendada</message>
 	<message key="manager.conferenceEventLog">Log de Eventos</message>
-	<message key="manager.conferenceSiteManagement">Administração da Página da Conferência</message>
+	<message key="manager.conferenceSiteManagement">Gerente Geral</message>
 	<message key="manager.currentConferences">Conferências Atuais</message>
 	<message key="manager.emails.confirmResetAll">Deseja realmente restaurar todos os e-mails para o padrão original para esta revista? Todas as personalizações serão perdidas.</message>
 	<message key="manager.files.note">Aviso: o Navegador de Arquivos é uma ferramenta avançada que permite visualização e manipulação direta de documentos e diretórios associados à conferência.</message>
