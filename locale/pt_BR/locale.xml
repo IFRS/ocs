@@ -613,9 +613,9 @@ Ativo indica quantas avaliações estão em consideração ou em andamento.]]></
 	<message key="user.account.form.usernameAlphaNumeric">O login deve conter apenas caracteres alfanuméricos, sublinhados, e hífens, e deve começar por um caractere alfanumérico (a-z, 0-9).</message>
 	<message key="user.account.form.emailExists">O endereço de e-mail digitado já está cadastrado.</message>
 	<message key="user.account.form.passwordsDoNotMatch">As senhas não combinam.</message>
-	<message key="user.account.selectConference">Escolha em qual conferência realizar o cadastro</message>
+	<message key="user.account.selectConference">Escolha em qual evento realizar o cadastro</message>
 	<message key="user.account.noConferences">Não há conferências para se cadastrar neste portal.</message>
-	<message key="user.account.selectSchedConf">Escolha em qual conferência agendada realizar o cadastro</message>
+	<message key="user.account.selectSchedConf">Escolha a edição do evento para realizar o cadastro</message>
 	<message key="user.account.noSchedConfs">Não há conferências agendadas nas quais se cadastrar neste portal.</message>
 	<message key="user.account.createAs">Cadastrar como</message>
 	<message key="user.account.privacyStatement">Política de Privacidade</message>
