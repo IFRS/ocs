@@ -562,7 +562,7 @@ Ativo indica quantas avaliações estão em consideração ou em andamento.]]></
 	<!-- Paper Submission Step 2 -->
 
 	<!-- Paper Submission Step 3 -->
-	<message key="author.submit.uploadInstructions"><![CDATA[<p>Para transferir um manuscrito para o sistema, execute os seguintes passos:</p>
+	<message key="author.submit.uploadInstructions"><![CDATA[<p>Para transferir um arquivo para o sistema, execute os seguintes passos:</p>
 <ol>
 <li>Nesta página, clique em PROCURAR, abrindo uma janela de seleção para localizar o documento no seu computador.</li>
 <li>Localize o arquivo desejado e selecione-o.</li>

@@ -62,7 +62,7 @@
 	<message key="author.submit.submissionIndexingDescription">Digite termos que descrevam da melhor maneira o conteúdo do seu trabalho, segundo as categorias utilizadas e os exemplos oferecidos.</message>
 	<message key="author.submit.submissionSupportingAgencies">Agências de Fomento</message>
 	<message key="author.submit.submissionSupportingAgenciesDescription">Indique as agências que fomentaram ou patrocinaram o trabalho. Ex.: CAPES,  CNPq, FAPERGS, FINEP, IFRS, Empresa privada, etc.</message>
-	<message key="author.submit.subjectClassInstructions">Use o sistema de classificação definido para escolher termos específicos da área do conhecimento, e numeração se apropriado.</message>
+	<message key="author.submit.subjectClassInstructions">Trabalho executado com recursos do Edital.../Programa..., da Pró-Reitoria de...</message>
 	<message key="author.submit.languageInstructions"><![CDATA[Português=pt; English=en; French=fr; Spanish=es. <a href="http://www.loc.gov/standards/iso639-2/langcodes.html" target="_blank">Códigos Adicionais</a>.]]></message>
 	<message key="presenter.submit.form.authorRequired">A submissão deve ter pelo menos um autor.</message>
 	<message key="presenter.submit.form.authorRequiredFields">São campos obrigatórios o primeiro nome (prénome), sobrenome e e-mail para cada autor.</message>
@@ -117,7 +117,7 @@
 	<message key="presenter.submit.authorSubmitLoginMessage">Um cadastro de usuário é necessário para enviar documentos à esta conferência. Isto permite aos diretores acompanhar e controlar a submissão, além de permitir o contato durante o andamento do processo editorial, ou caso seja necessária a atualização de informações.</message>
 	<message key="author.submit.step3AbstOnly">Passo 2. Informando os Metadados da submissão</message>
 	<message key="author.submit.metadataOnly">2. Informar metadados</message>
-	<message key="author.submit.uploadOnly">3. Enviar submissão</message>
+	<message key="author.submit.uploadOnly">3. Envio do Trabalho</message>
 	<message key="author.submit.supplementaryFilesAbstractOnly">3. Enviar arquivos suplementares</message>
 	<message key="author.submit.supplementaryFilesInfoAbstractOnly">Passo 4a. Enviando arquivos suplementares</message>
 	<message key="author.submissions.queuedAbstractReviewRevisions">Resumo em avaliação: correções obrigatórias</message>
